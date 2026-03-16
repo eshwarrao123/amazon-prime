@@ -1,4 +1,3 @@
-// Write your code here
 import Popup from 'reactjs-popup'
 import ReactPlayer from 'react-player'
 import {IoMdClose} from 'react-icons/io'
